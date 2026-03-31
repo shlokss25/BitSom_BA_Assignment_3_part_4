@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment Part 4
 
 This project is about analyzing student performance data and predicting pass/fail using machine learning.
@@ -14,3 +15,6 @@ How to run:
 
 Dataset:
 students_performance.csv
+=======
+# BitSom_BA_Assignment_3_part_4
+>>>>>>> 26938a4a67dba6b1f20fc7370d043a6dd9eb1aac
